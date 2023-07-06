@@ -31,6 +31,10 @@
     {
       "name": "popup.core.js",
       "version": "0.1.0"
+    },
+	{
+      "name": "KeepChatGPT",
+      "version": "16.1"
     }
   ]
 }
